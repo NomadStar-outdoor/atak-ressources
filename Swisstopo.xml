@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+	<name>Swisstopo carto 10</name>
+	<minZoom>0</minZoom>
+	<maxZoom>22</maxZoom>
+	<tileType>jpeg</tileType>
+	<tileUpdate>None</tileUpdate>
+	<url>https://wmts.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{$z}/{$x}/{$y}.jpeg</url>
+	<backgroundColor>#000000</backgroundColor>
+</customMapSource>
